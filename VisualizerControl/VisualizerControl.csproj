@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Computational Science Spring 2023\Geometry\Geometry.csproj" />
     <ProjectReference Include="..\DongUtility\DongUtility.csproj" />
     <ProjectReference Include="..\VisualizerBaseClasses\VisualizerBaseClasses.csproj" />
     <ProjectReference Include="..\WPFUtility\WPFUtility.csproj" />

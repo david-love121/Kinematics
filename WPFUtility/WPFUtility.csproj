@@ -11,7 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Computational Science Spring 2023\Geometry\Geometry.csproj" />
     <ProjectReference Include="..\DongUtility\DongUtility.csproj" />
   </ItemGroup>
 
