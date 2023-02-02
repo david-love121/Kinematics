@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DongUtility\DongUtility.csproj" />
+    <ProjectReference Include="..\Geometry\Geometry.csproj" />
   </ItemGroup>
 
 </Project>
