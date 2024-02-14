@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\ComputationalScienceSpring2023\Projectile_Motion\Projectile_Motion.csproj" />
+    <ProjectReference Include="..\..\ComputationalScienceSpring2023\Utility\Utility.csproj" />
     <ProjectReference Include="..\DongUtility\DongUtility.csproj" />
     <ProjectReference Include="..\GraphControl\GraphControl.csproj" />
     <ProjectReference Include="..\GraphData\GraphData.csproj" />

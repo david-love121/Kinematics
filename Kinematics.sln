@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongUtility", "DongUtility\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry", "Geometry\Geometry.csproj", "{42029E4E-F6B4-4DB9-8465-C093FAADF8EF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projectile_Motion", "..\ComputationalScienceSpring2023\Projectile_Motion\Projectile_Motion.csproj", "{1F6994AC-311D-41A5-86E3-82385BB2FB7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "..\ComputationalScienceSpring2023\Utility\Utility.csproj", "{2F1E8468-C6AC-41F7-B0E8-3235C3F64DB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,14 @@ Global
 		{42029E4E-F6B4-4DB9-8465-C093FAADF8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42029E4E-F6B4-4DB9-8465-C093FAADF8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42029E4E-F6B4-4DB9-8465-C093FAADF8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6994AC-311D-41A5-86E3-82385BB2FB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6994AC-311D-41A5-86E3-82385BB2FB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6994AC-311D-41A5-86E3-82385BB2FB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6994AC-311D-41A5-86E3-82385BB2FB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1E8468-C6AC-41F7-B0E8-3235C3F64DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1E8468-C6AC-41F7-B0E8-3235C3F64DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1E8468-C6AC-41F7-B0E8-3235C3F64DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1E8468-C6AC-41F7-B0E8-3235C3F64DB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
